@@ -1,5 +1,5 @@
 # Talent_FrontEnd_JS_25019
-E-commerce de Alquiler de Bienes Inmuebles para Eventos
+E-commerce de Alquiler de Bienes Muebles para Eventos
 
 Este proyecto es un e-commerce diseñado para facilitar el alquiler de una amplia variedad de bienes muebles y servicios para la organización de eventos. Nuestro objetivo es ofrecer una plataforma intuitiva y completa donde los usuarios puedan encontrar desde stands y mobiliario hasta equipamiento especializado y servicios pre y post evento.
 
